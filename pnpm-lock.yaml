@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       nx:
-        specifier: ^19.6.0
+        specifier: 19.6.0
         version: 19.6.0
 
 packages:
