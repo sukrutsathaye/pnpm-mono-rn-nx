@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "lerna": "^8.1.8",
     "nx": "19.6.0"
-  }
+  },
+  "dependencies": {}
 }
